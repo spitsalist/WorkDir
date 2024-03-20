@@ -1,1 +1,2 @@
 Test text
+It's my new text
