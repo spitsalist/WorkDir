@@ -2,4 +2,8 @@ Test text
 It's my new text
 second text
 Text 2
+Test text
+It's my new text
+second text
+Text 2
 
